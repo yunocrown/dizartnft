@@ -1,7 +1,7 @@
 {
   "name": "flipverse",
   "version": "1.0.0",
-  "description": "<h1 align=\"center\"> <font size=\"5\"> <b> FLIP - VERSE 🔥</b></h1>",
+  "description": "<h1 align=\"center\"> <font size=\"5\"> <b> Dizart </b></h1>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
